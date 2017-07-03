@@ -1,0 +1,27 @@
+{
+  "name": "rinku",
+  "version": "0.0.0",
+  "description": "Link manager for NPM",
+  "main": "lib/index.js",
+  "author": "Greg Poole",
+  "license": "MIT",
+  "dependencies": {
+    "pify": "^3.0.0",
+    "readdir-enhanced": "^1.5.2",
+    "upath": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-prettier": "^2.3.0",
+    "prettier": "^1.5.2"
+  },
+  "eslintConfig": {
+    "extends": [
+      "prettier"
+    ],
+    "env": {
+      "es6": true,
+      "node": true
+    }
+  }
+}
