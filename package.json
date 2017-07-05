@@ -8,6 +8,7 @@
   "dependencies": {
     "execa": "^0.7.0",
     "pify": "^3.0.0",
+    "pino": "^4.6.0",
     "readdir-enhanced": "^1.5.2",
     "upath": "^1.0.0"
   },
