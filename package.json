@@ -6,6 +6,7 @@
   "author": "Greg Poole",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^2.0.1",
     "difference": "^1.0.2",
     "execa": "^0.7.0",
     "pify": "^3.0.0",
